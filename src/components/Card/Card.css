@@ -1,0 +1,18 @@
+.card {
+  padding: 30px 20px;
+  border-radius: 8px;
+  border: 1px solid var(--light-gray);
+  margin-bottom: 30px;
+}
+
+.card.red {
+  background-color: var(--light-red);
+}
+
+.card.blue {
+  background-color: var(--light-blue);
+}
+
+.card .card-image {
+  max-width: 200px;
+}

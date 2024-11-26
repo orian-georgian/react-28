@@ -1,0 +1,10 @@
+.main-content {
+  display: flex;
+  flex-direction: column;
+  padding: 30px 100px;
+}
+
+.main-content h2 {
+  text-align: center;
+  font-size: 54px;
+}
